@@ -1,0 +1,13 @@
++ Run : mvn install
+
+
+
+---------------------------------
+RESTFUL API
+> create . update . read.
+> postman check : localhost:8080/tourPackages/BC
+> localhost:8080/tours/1/ratings
+> /tours/1/ratings
+> /tours/1/ratings
+
+---------------------------------
