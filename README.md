@@ -1,7 +1,7 @@
 # tour-spring-boot
-### Tour project with Spring Boot
-### Spring framework with spring boot
+### Spring Boot project
+Reservation of tour traveling and tour rating
 + JPA , H2
 + Restful API
 + Maven
-+
++ Spring Boot
